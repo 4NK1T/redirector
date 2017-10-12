@@ -7,7 +7,7 @@ Windows , Linux or any device running python 2.7
 
 Python 2.7
 
-paylaod(already loaded)
+payload(already loaded)
 
 "Usage: python file.py url_list.txt"
 
