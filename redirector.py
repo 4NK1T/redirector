@@ -36,5 +36,5 @@ try:
 
                 except:
                         continue
-
 except EOFError:
+	print "Ok Bye"
